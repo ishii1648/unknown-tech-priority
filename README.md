@@ -4,6 +4,7 @@
 
 - Rust
 - WebAssembly
+- Service Mesh
 
 ## Proposed Recommendation
 
